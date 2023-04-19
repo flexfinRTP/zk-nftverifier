@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "nft-verfier": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/nft-verfier.json",
+      "fee": "0.1"
+    }
+  }
 }
